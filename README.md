@@ -39,7 +39,6 @@ $ npm install
 # Change Database Config
 Change database config in ormconfig.json
 
-
 # development
 $ npm run start
 
