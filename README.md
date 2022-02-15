@@ -35,6 +35,11 @@ $ npm install
 ## Running the app
 
 ```bash
+
+# Change Database Config
+Change database config in ormconfig.json
+
+
 # development
 $ npm run start
 
