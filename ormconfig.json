@@ -1,10 +1,10 @@
 {
    "type": "mysql",
-   "host": "localhost",
+   "host": "us-cdbr-east-05.cleardb.net",
    "port": 3306,
-   "username": "root",
-   "password": "",
-   "database": "esusu_confam_db",
+   "username": "b03a476f3eac75",
+   "password": "0d2dba9f",
+   "database": "heroku_e157b860662f1e2",
    "autoLoadEntities": true,
    "synchronize": true,
    "migrations": [
@@ -17,7 +17,7 @@
    "cache": false
  }
 
- 
+
 
  
 
