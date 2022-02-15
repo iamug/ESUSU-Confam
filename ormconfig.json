@@ -1,0 +1,28 @@
+{
+   "type": "mysql",
+   "host": "localhost",
+   "port": 3306,
+   "username": "root",
+   "password": "",
+   "database": "esusu_confam_db",
+   "autoLoadEntities": true,
+   "synchronize": true,
+   "migrations": [
+     "dist/db/migrations/*.js"
+   ],
+   "cli": {
+       "migrationsDir": "src/db/migrations"
+   },
+   "entities": [ "dist/**/*.entity.js", "dist/src/**/*.entity.js" , "dist/**/entities/*.entity.js",  "src/**/entities/*.entity.js", "./build/src/entity/*.js"],
+   "cache": false
+ }
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
